@@ -1,6 +1,6 @@
 {
   "name": "random-number-ify",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "generate a random integer, default bounds 0 - 1000",
   "main": "index.js",
   "scripts": {
