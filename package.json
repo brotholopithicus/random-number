@@ -1,5 +1,5 @@
 {
-  "name": "random-number",
+  "name": "random-number-ify",
   "version": "1.0.0",
   "description": "generate a random integer, default bounds 0 - 1000",
   "main": "index.js",
